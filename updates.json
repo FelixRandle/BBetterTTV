@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "{8f7db141-c172-4308-855d-830b2543aa02}": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://github.com/FelixRandle/BBetterTTV/releases/download/1.1/bbetterttv-1.1-fx.xpi"
+        },
+        {
+          "version": "1.1.1",
+          "update_link": "https://github.com/FelixRandle/BBetterTTV/releases/download/1.1.1/bbetterttv-1.1.1-fx.xpi"
+        }
+      ]
+    }
+  }
+}
